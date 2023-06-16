@@ -1,4 +1,4 @@
-package com.aditya.nonaccessspecifiers;
+package com.aditya.nonaccessspecifiers.staticDemo;
 
 public class Water {
 

@@ -1,4 +1,4 @@
-package com.aditya.nonaccessspecifiers;
+package com.aditya.nonaccessspecifiers.staticDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

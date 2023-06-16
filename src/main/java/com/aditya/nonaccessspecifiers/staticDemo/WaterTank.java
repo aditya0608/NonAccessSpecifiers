@@ -1,4 +1,4 @@
-package com.aditya.nonaccessspecifiers;
+package com.aditya.nonaccessspecifiers.staticDemo;
 
 import java.util.Arrays;
 
